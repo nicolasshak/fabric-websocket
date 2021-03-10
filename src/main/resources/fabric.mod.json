@@ -10,11 +10,8 @@
   "icon": "assets/fabric-websocket/icon.png",
   "environment": "*",
   "entrypoints": {
-    "client": [
-      "nshak.fabricwebsocket.client.FabricWebsocketClient"
-    ],
     "main": [
-      "nshak.fabricwebsocket.FabricWebsocket"
+      "nshak.fabricwebsocket.FabricWebSocket"
     ]
   },
   "mixins": [
